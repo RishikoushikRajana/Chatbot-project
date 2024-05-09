@@ -1,0 +1,10 @@
+The pre-defined questions you can search are as follows:
+1. hello
+2. hi
+3. who are you?
+4. how are you?
+5. what is artificial intelligence?
+6. name some fruits
+7. name some vegetables
+8. bye
+9. goodbye
